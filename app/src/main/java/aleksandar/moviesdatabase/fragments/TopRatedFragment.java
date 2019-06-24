@@ -30,10 +30,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by Mende on 08.2.2018.
- */
-
 public class TopRatedFragment extends Fragment {
     private Unbinder mUnbinder;
     RestApi api = new RestApi();

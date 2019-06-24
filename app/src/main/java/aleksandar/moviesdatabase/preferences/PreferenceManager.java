@@ -4,10 +4,6 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-/**
- * Created by Mende on 22.2.2018.
- */
-
 public class PreferenceManager {
     String token="token";
     String session_id="session_id";

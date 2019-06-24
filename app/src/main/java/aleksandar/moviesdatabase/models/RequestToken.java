@@ -1,9 +1,5 @@
 package aleksandar.moviesdatabase.models;
 
-/**
- * Created by Mende on 15.2.2018.
- */
-
 public class RequestToken {
     boolean success;
     String expires_at;

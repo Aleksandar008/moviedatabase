@@ -1,9 +1,5 @@
 package aleksandar.moviesdatabase.models;
 
-/**
- * Created by Mende on 16.2.2018.
- */
-
 public class SessionModel {
 
     boolean success;

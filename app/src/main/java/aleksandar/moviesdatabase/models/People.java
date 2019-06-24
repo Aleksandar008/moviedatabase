@@ -2,10 +2,6 @@ package aleksandar.moviesdatabase.models;
 
 import java.util.ArrayList;
 
-/**
- * Created by Mende on 12.2.2018.
- */
-
 public class People {
     double popularity;
     int id;

@@ -8,10 +8,6 @@ import java.util.ArrayList;
 
 import aleksandar.moviesdatabase.fragments.PeoplesFragment;
 
-/**
- * Created by Mende on 12.2.2018.
- */
-
 public class MyPagePeopleAdapter extends FragmentStatePagerAdapter {
 
     ArrayList<Fragment> fragments = new ArrayList<>();

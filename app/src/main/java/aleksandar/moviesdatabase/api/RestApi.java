@@ -23,10 +23,6 @@ import retrofit2.Call;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-/**
- * Created by Mende on 08.2.2018.
- */
-
 public class RestApi {
     public static final int request_max_time_in_seconds = 20;
 

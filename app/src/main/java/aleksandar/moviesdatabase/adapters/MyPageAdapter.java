@@ -6,10 +6,6 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 
 import java.util.ArrayList;
 
-/**
- * Created by Mende on 08.2.2018.
- */
-
 public class MyPageAdapter extends FragmentStatePagerAdapter {
     ArrayList<Fragment> fragments = new ArrayList<Fragment>();
     ArrayList<String> titles = new ArrayList<String>();

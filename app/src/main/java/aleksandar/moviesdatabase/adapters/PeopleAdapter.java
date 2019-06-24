@@ -24,10 +24,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by Mende on 12.2.2018.
- */
-
 public class PeopleAdapter extends RecyclerView.Adapter<PeopleAdapter.ViewHolder>{
     Context context;
     PeopleModel peopleModel = new PeopleModel();

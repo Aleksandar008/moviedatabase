@@ -1,8 +1,5 @@
 package aleksandar.moviesdatabase.models;
 
-/**
- * Created by Mende on 22.2.2018.
- */
 
 public class PostFavourite {
 

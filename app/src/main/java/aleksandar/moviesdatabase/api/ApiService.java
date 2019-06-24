@@ -17,10 +17,6 @@ import retrofit2.http.POST;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
 
-/**
- * Created by Mende on 08.2.2018.
- */
-
 public interface ApiService {
     @GET("movie/popular")
     Call<MoviesModel> getPopularMovies();

@@ -1,9 +1,5 @@
 package aleksandar.moviesdatabase.models;
 
-/**
- * Created by Mende on 25.2.2018.
- */
-
 public class ResponseFavourites {
 
     int status_code;

@@ -2,10 +2,6 @@ package aleksandar.moviesdatabase.models;
 
 import java.util.ArrayList;
 
-/**
- * Created by Mende on 14.2.2018.
- */
-
 public class CreditsModel {
 
     int id;
